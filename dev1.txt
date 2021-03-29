@@ -1,0 +1,1200 @@
+IsA	object	tool	1
+AtLocation	pet store	ferret	1
+HasPrerequisite	turn on your computer	get onto web	1
+IsA	gas	helium	1
+HasProperty	hard	most rock	1
+NotCapableOf	walk on water	person	1
+ReceivesAction	wear around neck	necklace	1
+HasA	two leg	human	1
+UsedFor	have drink	go to pub	1
+HasPrerequisite	water	bathe	1
+AtLocation	desk	someone	1
+HasProperty	very good for you	exercise	1
+IsA	animal	pet	1
+HasA	four side	square	1
+AtLocation	english alphabet	26 letter	1
+HasPrerequisite	go to art museum	see art	1
+IsA	colour	orange	1
+UsedFor	cut	see	1
+CapableOf	part your hair	comb	1
+HasSubevent	run	play lacrosse	1
+Desires	privacy	person	1
+AtLocation	countryside	cow	1
+HasSubevent	have drink	go to pub	1
+IsA	form of public transportation	bus	1
+HasA	engine	all car	1
+HasA	information	book	1
+HasSubevent	exercise	maintain good health	1
+Causes	relief	urinate	1
+AtLocation	outer space	star	1
+HasPrerequisite	hire lawyer	bring suit	1
+CapableOf	sound alarm	guard	1
+CapableOf	grow on tree	fruit	1
+CapableOf	hit baseball	batter	1
+AtLocation	freezer	ice cream	1
+AtLocation	library	volume	1
+UsedFor	relaxation	bath	1
+UsedFor	entertain	show	1
+AtLocation	war	death	1
+AtLocation	movie	seat	1
+AtLocation	pocket	pen	1
+AtLocation	chemistry lab	test tube	1
+AtLocation	universe	planet	1
+AtLocation	university	classroom	1
+CapableOf	tie tie	man	1
+HasPrerequisite	make reservation	go to restaurant	1
+AtLocation	roof	antenna	1
+UsedFor	make clothe	woolen fabric	1
+HasSubevent	cry	watch film	1
+CapableOf	play musical instrument	musician	1
+Causes	nightmare	dream	1
+UsedFor	store clothe	closet	1
+UsedFor	express love	kiss someone	1
+Causes	you get very wet	walk in rain	1
+Causes	eat	buy hamburger	1
+UsedFor	work	use computer	1
+AtLocation	tree	shade	1
+AtLocation	your mouth	tooth	1
+UsedFor	cook	stove	1
+Causes	idea	think	1
+AtLocation	desk	clock	1
+IsA	color	pink	1
+IsA	state	arkansas	1
+MotivatedByGoal	you need money	work	1
+HasSubevent	laugh	have fun	1
+IsA	land	island	1
+UsedFor	try on clothe	clothe store change room	1
+AtLocation	orbit	satellite	1
+HasProperty	power by wind	sailboat	1
+AtLocation	doctor office	someone	1
+CapableOf	fancy girl	boy	1
+UsedFor	be entertain	go to movie	1
+UsedFor	build	board	1
+HasSubevent	cheer	win baseball game	1
+HasSubevent	receive money	cash in	1
+HasFirstSubevent	sit	attend lecture	1
+HasPrerequisite	get weapon	kill someone	1
+AtLocation	desk	blotter	1
+ReceivesAction	recycle	all paper	1
+AtLocation	water	plankton	1
+PartOf	human experience	sex	1
+HasPrerequisite	mop	do housework	1
+AtLocation	landfill	garbage	1
+MotivatedByGoal	you be thirsty	drink	1
+IsA	coin	penny	1
+HasPrerequisite	know rule	play game	1
+UsedFor	drink beer from	beer mug	1
+HasPrerequisite	study hard	pass class	1
+UsedFor	play with	doll	1
+IsA	domesticate animal	dog	1
+AtLocation	drawer in bedroom	chest	1
+HasProperty	blue	robin egg	1
+AtLocation	fork in road	sign	1
+AtLocation	garage	ladder	1
+AtLocation	street	automobile	1
+AtLocation	dentist	toothbrush	1
+AtLocation	train station	something	1
+AtLocation	pond	duck	1
+AtLocation	tree	someone	1
+AtLocation	bus stop	bus	1
+AtLocation	pant in closet	pair	1
+AtLocation	desk	book	1
+Causes	get drunk	go to pub	1
+HasPrerequisite	money	buy present for others	1
+AtLocation	bottom of ocean	something	1
+IsA	drink	tea	1
+AtLocation	bar	stool	1
+AtLocation	fair	someone	1
+AtLocation	school	eraser	1
+IsA	language	music	1
+IsA	combustion	fire	1
+HasSubevent	eat popcorn	see movie	1
+UsedFor	play	toy car	1
+UsedFor	play	yard	1
+Causes	sum	add up column of number	1
+HasSubevent	hold your breath	dive	1
+AtLocation	counter in airport	check	1
+CapableOf	write that book	author	1
+AtLocation	dump	trash	1
+Desires	their own house	person	1
+HasSubevent	you fall over	ski	1
+UsedFor	cut thing such as wood	see	1
+UsedFor	exercise	tennis game	1
+UsedFor	mail letter	post office	1
+UsedFor	walk through	aisle	1
+Desires	be knowledgeable	person	1
+HasSubevent	knead of dough	make bread	1
+AtLocation	laboratory	scientist	1
+IsA	activity	read	1
+AtLocation	doctor	tongue depressor	1
+HasSubevent	read magazine	go to get haircut	1
+HasSubevent	dance	listen to radio	1
+CapableOf	power flashlight	battery	1
+AtLocation	table	cat	1
+AtLocation	war	weapon	1
+HasA	two wheel	bike	1
+AtLocation	house	furniture	1
+ReceivesAction	find in library	book	1
+AtLocation	grind	rock	1
+AtLocation	state park	park ranger	1
+HasPrerequisite	have imagination	pretend	1
+AtLocation	newspaper	advertise	1
+AtLocation	street	traffic	1
+AtLocation	table	table cloth	1
+AtLocation	wed	bride and groom	1
+HasSubevent	kill someone	commit murder	1
+CapableOf	name their child	parent	1
+HasPrerequisite	set alarm	get up early	1
+UsedFor	educate them	read to your child	1
+IsA	language	german	1
+AtLocation	chemistry lab	beaker	1
+AtLocation	outerspace	other planet	1
+HasProperty	dangerous	storm	1
+CapableOf	captain ship	woman	1
+HasSubevent	talk	make friend	1
+UsedFor	serve food	dish	1
+AtLocation	art show	artist	1
+HasPrerequisite	light cigarette	smoke	1
+IsA	street	avenue	1
+HasPrerequisite	ear	listen to music	1
+Causes	your car to be clean	wash your car	1
+HasPrerequisite	enroll	go to school	1
+IsA	emotion	fear	1
+HasSubevent	listen to music	see band	1
+HasPrerequisite	inhale	breathe	1
+HasSubevent	catch fish	fish	1
+HasSubevent	get tip	serve customer	1
+AtLocation	mountain	something	1
+HasPrerequisite	judgement	bring in verdict	1
+CapableOf	shine brightly	sun	1
+AtLocation	opera	opera glass	1
+IsA	tree	something you find outside	1
+HasA	name	person	1
+CapableOf	water her plant	gardener	1
+HasPrerequisite	have radio	listen to radio	1
+HasPrerequisite	swallow	drink	1
+HasA	wing	airplane	1
+CapableOf	water lawn	sprinkler	1
+UsedFor	hold soap	soap dish	1
+HasA	melt core	earth	1
+HasSubevent	smoke cigarette	take break	1
+HasSubevent	fall to grind	jump out of window	1
+CapableOf	trade pokemon card	child	1
+UsedFor	dance	dance club	1
+UsedFor	clean vent	vent brush	1
+UsedFor	lift heavy object	hoist	1
+UsedFor	sit down	beanbag chair	1
+AtLocation	kitchen	fork	1
+CapableOf	study book	student	1
+UsedFor	heat room	radiator	1
+HasSubevent	sightsee	visit other country	1
+HasPrerequisite	go to bar	meet person	1
+AtLocation	outerspace	asteroid	1
+HasSubevent	drink	enjoy company of your friend	1
+UsedFor	shoot thing	gun	1
+UsedFor	pour liquid	spout	1
+AtLocation	cabinet	dish	1
+HasA	flavor	cheese	1
+HasSubevent	buy popcorn	go see film	1
+HasA	brain	human	1
+HasSubevent	get wet	surf	1
+HasSubevent	knead dough	make bread	1
+HasPrerequisite	have newspaper	read newspaper	1
+AtLocation	toolbox	screwdriver	1
+HasA	two arm	human	1
+AtLocation	newspaper	editorial	1
+AtLocation	laboratory	bunsen burner	1
+CapableOf	prove theory	scientist	1
+HasProperty	dangerous	explosive	1
+UsedFor	take bath	tub	1
+AtLocation	chair	something	1
+AtLocation	corner	someone	1
+IsA	good thing	sex	1
+IsA	reflective surface	water	1
+IsA	bad thing	violence	1
+IsA	fruit	pear	1
+IsA	symbol	flag	1
+IsA	large mammal	horse	1
+CausesDesire	bathe	be dirty	1
+IsA	money	dollar	1
+IsA	wind instrument	flute	1
+UsedFor	sink ship	cannonball	1
+HasSubevent	smile	flirt	1
+UsedFor	make wine	grape	1
+PartOf	word	letter	1
+HasProperty	green	leave	1
+CapableOf	write software	programmer	1
+IsA	quiet place	library	1
+CapableOf	dress doll	girl	1
+IsA	good place to study	library	1
+UsedFor	carry thing	shoulder bag	1
+HasProperty	sharp	thumbtack	1
+UsedFor	cook	oven	1
+HasProperty	alive	tree	1
+Causes	happiness	eat ice cream	1
+IsA	rectangle	square	1
+UsedFor	religion	temple	1
+UsedFor	hit baseball	baseball bat	1
+HasPrerequisite	open envelope	read letter	1
+UsedFor	correct vision	glass	1
+UsedFor	make music	woodwind	1
+UsedFor	make jean	denim	1
+CapableOf	hurt person	fire	1
+NotDesires	break leg	person	1
+UsedFor	make noise	bell	1
+UsedFor	travel	take bus	1
+UsedFor	communicate	write	1
+UsedFor	play music	double bass	1
+HasPrerequisite	wash it	eat apple	1
+UsedFor	enter build	entrance	1
+IsA	female	girl	1
+IsA	write instrument	pen	1
+IsA	state	new mexico	1
+IsA	state	south dakota	1
+IsA	female	woman	1
+IsA	cloth	linen	1
+UsedFor	write on	sheet of paper	1
+UsedFor	sweeten food	sugar	1
+Causes	applause	act in play	1
+Causes	pain	fall	1
+HasPrerequisite	turn on television	watch tv show	1
+Causes	stress	take final	1
+CausesDesire	go for swim	be hot	1
+CapableOf	hang on wall	picture	1
+CausesDesire	study for subject	test	1
+UsedFor	cool	electric fan	1
+UsedFor	pump blood	heart	1
+UsedFor	fun	have sex	1
+UsedFor	rule country	queen	1
+CapableOf	plant tree	person	1
+UsedFor	make music	musical instrument	1
+UsedFor	read	article in magazine	1
+UsedFor	clean your tooth	toothbrush head	1
+UsedFor	put coin in	coin slot	1
+Causes	crumb in bed	eat breakfast in bed	1
+UsedFor	wade	shallow water	1
+UsedFor	store thing	closet	1
+HasSubevent	sleep	stay in bed	1
+UsedFor	make box	cardboard	1
+UsedFor	fly	kite	1
+UsedFor	make music	bagpipe	1
+CapableOf	drown in water	person	1
+UsedFor	speak	lip	1
+MotivatedByGoal	communicate with someone	write letter	1
+HasPrerequisite	match	light fire	1
+HasSubevent	get sick	catch mumps	1
+HasSubevent	light match	start fire	1
+UsedFor	worship	temple	1
+UsedFor	make music	accordion	1
+CapableOf	milk cow	person	1
+HasPrerequisite	start car	drive to work	1
+NotDesires	get wet	cat	1
+UsedFor	hang towel	towel rack	1
+HasPrerequisite	eat less	lose weight	1
+UsedFor	sail	boat	1
+UsedFor	make flour	wheat	1
+MotivatedByGoal	pass course	take midterm	1
+HasSubevent	paint	create art	1
+HasSubevent	listen to music	attend classical concert	1
+IsA	fruit	strawberry	1
+UsedFor	grow vegetable	vegetable garden	1
+Causes	injustice	obstruct justice	1
+IsA	toy	rubber duck	1
+IsA	simple machine	screw	1
+IsA	parent male child	son	1
+IsA	feline	lion	1
+AtLocation	school	school cafeteria	1
+AtLocation	pond	fish	1
+AtLocation	hotel	reception area	1
+AtLocation	tool box	screwdriver	1
+AtLocation	bathroom	tissue holder	1
+AtLocation	garden	snake	1
+AtLocation	closet	t-shirt	1
+AtLocation	forest	ficus	1
+AtLocation	war	bomb	1
+AtLocation	city	theater	1
+AtLocation	office	staple remover	1
+AtLocation	cd player	laser	1
+AtLocation	family	son	1
+AtLocation	ice age	mammoth	1
+AtLocation	record studio	sound control room	1
+AtLocation	country	government	1
+AtLocation	refrigerator	milk	1
+AtLocation	fireplace	fire	1
+AtLocation	automobile	human	1
+AtLocation	front of house	front yard	1
+AtLocation	store	store shelf	1
+AtLocation	market	potato	1
+AtLocation	belfry	bat	1
+AtLocation	rainforest	marmoset	1
+HasSubevent	swallow	eat	1
+AtLocation	suitcase	clothe	1
+IsA	fruit	tomato	1
+Desires	eat	animal	1
+PartOf	computer	ram	1
+AtLocation	mall	teenager	1
+UsedFor	brush hair	hairbrush	1
+PartOf	tree	bark	1
+AtLocation	town	build	1
+PartOf	atom	electron	1
+HasLastSubevent	die	live	1
+AtLocation	college	pen	1
+CapableOf	make mistake	human	1
+NotDesires	bad review	actor	1
+IsA	dog	beagle	1
+PartOf	family	father	1
+MadeOf	paper	money	1
+IsA	flower	lily	1
+IsA	vegetable	celery	1
+UsedFor	protection	condom	1
+MotivatedByGoal	have fun	play game	1
+HasSubevent	close your eye	kiss	1
+UsedFor	heat	heater	1
+AtLocation	bathroom	bathtub	1
+AtLocation	bathroom	towel	1
+PartOf	bed	mattress	1
+IsA	clothe	dress	1
+CapableOf	sing	person	1
+AtLocation	earth	person	1
+AtLocation	in sky	cloud	1
+MadeOf	wood	table	1
+CapableOf	fly	bird	1
+AtLocation	desk	lamp	1
+IsA	fruit	mango	1
+IsA	spice	cinnamon	1
+IsA	hobby	sew	1
+IsA	spice	salt	1
+IsA	animal	insect	1
+IsA	plant	grass	1
+IsA	animal	elephant	1
+IsA	vegetable	spinach	1
+MadeOf	flour	cake	1
+UsedFor	tell time	watch	1
+CapableOf	run	person	1
+IsA	flower	iris	1
+UsedFor	cut food	knife	1
+UsedFor	cook food	stove	1
+UsedFor	see	glass	1
+AtLocation	at home	bed	1
+IsA	food	bread	1
+AtLocation	hospital	doctor	1
+PartOf	body	leg	1
+HasProperty	hot	summer	1
+AtLocation	live room	sofa	1
+IsA	story	novel	1
+PartOf	book	cover	1
+IsA	bird	owl	1
+HasProperty	hot	sun	1
+IsA	fruit	lemon	1
+IsA	continent	africa	1
+IsA	animal	ferret	1
+IsA	fish	shark	1
+IsA	mammal	rodent	1
+IsA	mammal	horse	1
+IsA	bird	penguin	1
+IsA	mammal	rat	1
+IsA	fish	tuna	1
+IsA	bird	flamingo	1
+IsA	colour	green	1
+IsA	fish	catfish	1
+PartOf	reproductive cycle	sex	1
+PartOf	book	chapter	1
+IsA	human	man	1
+UsedFor	companionship	pet	1
+PartOf	atom	proton	1
+AtLocation	stadium	fan	1
+IsA	dairy product	cheese	1
+IsA	call table tennis	ping pong	1
+HasA	tooth	saw	1
+ReceivesAction	write by author	book	1
+IsA	hell	war	1
+Desires	gnaw on bone	dog	1
+HasProperty	superstitious	some person	1
+IsA	jump	horse	1
+HasProperty	dangerous	some animal	1
+IsA	food	bagel	1
+Desires	ride in car	dog	1
+HasA	4 leg	horse	1
+CapableOf	near water	duck	1
+HasProperty	scary	rollercoasters	1
+IsA	jump over fence	horse	1
+IsA	science	chemistry	1
+IsA	drink	cappuccino	1
+HasA	sex in bed	person	1
+IsA	activity	ski	1
+IsA	in france	paris	1
+AtLocation	store	food	1
+HasA	vitamin	fruit	1
+UsedFor	excercise	play sport	1
+IsA	bliss	ignorance	1
+Causes	happiness	sing	1
+HasProperty	yellow	urine	1
+HasProperty	yellow	ribbon	1
+IsA	often	book	1
+HasPrerequisite	ticket	go to play	1
+CapableOf	learn from each other	person	1
+HasPrerequisite	turn on music	dance	1
+HasSubevent	look at paint	visit art gallery	1
+UsedFor	commit suicide	jump out of window	1
+IsA	emotion	happiness	1
+HasA	caffeine	coffee	1
+HasA	wax	ear	1
+NotCapableOf	travel in space	sound	1
+HasProperty	gay	some men	1
+CapableOf	jump high	horse	1
+CapableOf	smell drug	dog	1
+HasSubevent	score goal	play hockey	1
+CapableOf	father child	male	1
+CapableOf	fail student	teacher	1
+IsA	solid	ice	1
+NotDesires	lose his friend	person	1
+AtLocation	bar	drunk	1
+HasPrerequisite	get license	drive car	1
+HasSubevent	have sex	meet friend	1
+Causes	pass class	take examination	1
+Causes	get drunk	buy beer	1
+IsA	in europe	germany	1
+HasA	word	book	1
+HasPrerequisite	have money	spend money	1
+HasPrerequisite	attend class	take final	1
+CapableOf	coat wall	painter	1
+CapableOf	cover bed	blanket	1
+HasA	bristle	toothbrush	1
+CapableOf	age well	cheese	1
+HasSubevent	study	pass course	1
+IsA	dog	spaniel	1
+Desires	catch frisbee	dog	1
+HasProperty	fun	dinner party	1
+CapableOf	iron shirt	person	1
+HasPrerequisite	play game	have fun	1
+CapableOf	roll over	car	1
+CapableOf	break glass	hammer	1
+IsA	state	michigan	1
+HasPrerequisite	use brake	stop your car	1
+HasProperty	man make	build	1
+CapableOf	water flower	gardener	1
+IsA	good friend	dog	1
+AtLocation	newspaper	puzzle	1
+HasSubevent	chew	eat apple	1
+HasPrerequisite	go to fish market	bring home some fish	1
+NotMadeOf	green cheese	moon	1
+IsA	form of entertainment	play	1
+AtLocation	day	24 hour	1
+AtLocation	minute	60 second	1
+IsA	woman	mother	1
+AtLocation	shower	shampoo	1
+CapableOf	pay employee	employer	1
+IsA	very young child	baby	1
+IsA	alcoholic beverage	wine	1
+IsA	form of communication	write	1
+HasPrerequisite	just study	pass your university exam	1
+Desires	solve problem	person	1
+UsedFor	add number	calculator	1
+IsA	flower	hibiscus	1
+HasPrerequisite	turn on radio	hear news	1
+CapableOf	sense danger	dog	1
+HasPrerequisite	open book	read	1
+HasPrerequisite	change yourself	change society	1
+MotivatedByGoal	reach top	climb	1
+CapableOf	right wrong	judge	1
+CapableOf	shade lawn	tree	1
+Causes	dance	hear music	1
+HasProperty	weird	person	1
+HasPrerequisite	find bus stop	take bus	1
+Causes	get grade	take exam	1
+AtLocation	world	many different culture	1
+HasPrerequisite	ticket	attend classical concert	1
+Causes	dream	go to sleep	1
+UsedFor	play music	trombone	1
+Causes	meet new person	go to party	1
+HasSubevent	you lose your place	leave line	1
+Causes	enjoyment	go to performance	1
+UsedFor	cool room	air conditioner	1
+HasPrerequisite	pick it up	examine thing	1
+HasPrerequisite	take off your clothe	have shower	1
+HasProperty	blue during day	sky	1
+ReceivesAction	record on film	movie	1
+CapableOf	note fact	student	1
+HasPrerequisite	preheat oven	bake cake	1
+UsedFor	stick thing together	glue	1
+AtLocation	bathroom	hairbrush	1
+AtLocation	disneyland	mickey mouse	1
+CapableOf	power car	gasoline	1
+AtLocation	field	apple tree	1
+AtLocation	doghouse	dog	1
+HasA	opposable thumb	human	1
+UsedFor	shoot	rifle	1
+HasSubevent	drink	have lunch	1
+HasPrerequisite	ask question	discover truth	1
+HasProperty	edible	some plant	1
+HasPrerequisite	go to hairdresser	have haircut	1
+HasPrerequisite	apply for job	get job	1
+AtLocation	shop mall	park lot	1
+AtLocation	trap	mouse	1
+AtLocation	toy store	barbie	1
+AtLocation	refrigerator	cheese	1
+NotCapableOf	talk	cat	1
+Causes	happiness	play game	1
+CapableOf	farm corn	farmer	1
+AtLocation	nest	bird	1
+HasPrerequisite	train	compete	1
+AtLocation	office	cubicle	1
+HasPrerequisite	turn off alarm clock	stay in bed	1
+HasSubevent	sleep in	stay in bed	1
+AtLocation	nest	egg	1
+HasPrerequisite	go to movie	watch film	1
+HasLastSubevent	turn tv off	watch tv	1
+IsA	bird	dove	1
+HasPrerequisite	turn on television	see your favorite show	1
+Causes	make friend	socialise	1
+Causes	sleep	have rest	1
+AtLocation	drive-in movie	speaker	1
+NotCapableOf	mix	oil and water	1
+HasA	four stomach	cow	1
+CapableOf	reply to e-mail	person	1
+AtLocation	your desk	post-it note	1
+HasSubevent	read	relax	1
+ReceivesAction	recycle	paper	1
+HasPrerequisite	turn on water	have shower	1
+HasPrerequisite	go to grocery store	buy food	1
+HasPrerequisite	run marathon	prove your physical endurance	1
+AtLocation	country	land	1
+AtLocation	zoo	zebra	1
+HasPrerequisite	sit on bike	ride bike	1
+CapableOf	arrive at airport	airplane	1
+UsedFor	play game of chess	chess set	1
+CapableOf	be make love	sex	1
+HasPrerequisite	have vcr	view video	1
+AtLocation	forest	stream	1
+CausesDesire	go to work	need money	1
+AtLocation	closet	basement	1
+UsedFor	look	eye	1
+UsedFor	park your car	park zone	1
+Causes	get answer	compute sum	1
+HasPrerequisite	get saddle	ride horse	1
+AtLocation	closet	shelf	1
+AtLocation	your bed	floor	1
+AtLocation	art show	paint	1
+AtLocation	laboratory	researcher	1
+AtLocation	pacific ocean	shark	1
+UsedFor	ring	bell	1
+HasA	sharp claw	cat	1
+HasPrerequisite	vacuum	do housework	1
+HasA	core	apple	1
+HasProperty	round	globe	1
+AtLocation	eye of beholder	beauty	1
+HasA	gill	fish	1
+IsA	state	maine	1
+UsedFor	weigh object	scale	1
+HasA	window	car	1
+UsedFor	light room	candle	1
+AtLocation	corner	spider web	1
+AtLocation	your finger	ring	1
+IsA	terrain	desert	1
+AtLocation	rest area	bathroom	1
+IsA	number	seven	1
+HasA	five finger on each hand	person	1
+IsA	stimulant	coffee	1
+HasProperty	round	planet	1
+ReceivesAction	make from milk	butter	1
+HasPrerequisite	go to library	read book	1
+IsA	find in library	tool	0
+IsA	pet store	ferret	0
+HasPrerequisite	sit down	get onto web	0
+IsA	gas	land	0
+HasProperty	hard	trombone	0
+IsA	walk on water	person	0
+ReceivesAction	wear around neck	pet	0
+NotDesires	two leg	human	0
+AtLocation	have drink	go to pub	0
+CapableOf	water	bathe	0
+UsedFor	desk	someone	0
+HasProperty	universe	exercise	0
+IsA	mammal	pet	0
+HasA	four side	socialise	0
+MotivatedByGoal	english alphabet	26 letter	0
+HasPrerequisite	part your hair	see art	0
+IsA	colour	visit art gallery	0
+UsedFor	cut	cheese	0
+CapableOf	part your hair	death	0
+HasPrerequisite	run	play lacrosse	0
+AtLocation	privacy	person	0
+UsedFor	countryside	cow	0
+HasPrerequisite	have drink	go to pub	0
+IsA	food	bus	0
+HasA	engine	tissue holder	0
+CapableOf	information	book	0
+HasSubevent	exercise	happiness	0
+UsedFor	relief	urinate	0
+AtLocation	shower	star	0
+HasPrerequisite	hire lawyer	cardboard	0
+CapableOf	sound alarm	person	0
+CapableOf	grow on tree	shoulder bag	0
+CapableOf	hit baseball	mango	0
+AtLocation	cook	ice cream	0
+AtLocation	bad review	volume	0
+UsedFor	enter build	bath	0
+UsedFor	entertain	make friend	0
+AtLocation	war	school cafeteria	0
+AtLocation	companionship	seat	0
+AtLocation	pocket	kill someone	0
+CapableOf	chemistry lab	test tube	0
+MotivatedByGoal	universe	planet	0
+AtLocation	make clothe	classroom	0
+IsA	tie tie	man	0
+IsA	make reservation	go to restaurant	0
+UsedFor	roof	antenna	0
+UsedFor	cook	woolen fabric	0
+IsA	cry	watch film	0
+CapableOf	play musical instrument	horse	0
+Causes	get license	dream	0
+CapableOf	store clothe	closet	0
+UsedFor	express love	farmer	0
+Causes	happiness	walk in rain	0
+HasSubevent	eat	buy hamburger	0
+UsedFor	clean vent	use computer	0
+AtLocation	your desk	shade	0
+IsA	your mouth	tooth	0
+HasSubevent	cook	stove	0
+Causes	cut food	think	0
+HasPrerequisite	desk	clock	0
+IsA	color	chest	0
+HasSubevent	state	arkansas	0
+MotivatedByGoal	you need money	show	0
+HasSubevent	write instrument	have fun	0
+IsA	land	make bread	0
+UsedFor	female	clothe store change room	0
+AtLocation	corner	satellite	0
+HasProperty	flower	sailboat	0
+AtLocation	doctor office	person	0
+CapableOf	state	boy	0
+HasProperty	be entertain	go to movie	0
+Causes	build	board	0
+HasSubevent	cheer	cat	0
+HasSubevent	receive money	towel rack	0
+HasFirstSubevent	sit	bathtub	0
+HasPrerequisite	wear around neck	kill someone	0
+AtLocation	work	blotter	0
+Desires	recycle	all paper	0
+AtLocation	water	cannonball	0
+HasProperty	human experience	sex	0
+HasPrerequisite	mop	read newspaper	0
+CapableOf	landfill	garbage	0
+HasSubevent	you be thirsty	drink	0
+IsA	coin	fall	0
+HasPrerequisite	house	play game	0
+IsA	drink beer from	beer mug	0
+HasPrerequisite	study hard	planet	0
+ReceivesAction	play with	doll	0
+IsA	domesticate animal	go to movie	0
+AtLocation	drawer in bedroom	air conditioner	0
+ReceivesAction	blue	robin egg	0
+AtLocation	walk on water	sign	0
+AtLocation	garage	smoke	0
+AtLocation	pocket	automobile	0
+UsedFor	dentist	toothbrush	0
+AtLocation	train station	tree	0
+AtLocation	pond	car	0
+HasSubevent	tree	someone	0
+AtLocation	bus stop	pen	0
+HasPrerequisite	pant in closet	pair	0
+AtLocation	desk	fish	0
+HasPrerequisite	get drunk	go to pub	0
+HasPrerequisite	money	tree	0
+AtLocation	tree	something	0
+CapableOf	drink	tea	0
+IsA	bar	stool	0
+AtLocation	train	someone	0
+AtLocation	school	stay in bed	0
+IsA	turn on radio	music	0
+IsA	emotion	fire	0
+HasSubevent	eat popcorn	grass	0
+UsedFor	play	dog	0
+IsA	play	yard	0
+IsA	sum	add up column of number	0
+HasSubevent	bus stop	dive	0
+AtLocation	counter in airport	gun	0
+CapableOf	write that book	someone	0
+AtLocation	dump	pen	0
+Desires	their own house	front yard	0
+HasSubevent	you fall over	drink	0
+UsedFor	cut thing such as wood	dance club	0
+UsedFor	bird	tennis game	0
+UsedFor	mail letter	bagel	0
+UsedFor	walk through	beaker	0
+Desires	be knowledgeable	catch mumps	0
+HasPrerequisite	knead of dough	make bread	0
+UsedFor	laboratory	scientist	0
+IsA	run	read	0
+HasPrerequisite	doctor	tongue depressor	0
+HasSubevent	art show	go to get haircut	0
+HasSubevent	dance	read	0
+CapableOf	power flashlight	person	0
+UsedFor	table	cat	0
+AtLocation	right wrong	weapon	0
+HasA	two wheel	letter	0
+AtLocation	start car	furniture	0
+ReceivesAction	make clothe	book	0
+AtLocation	hang towel	rock	0
+AtLocation	state park	fish	0
+HasPrerequisite	have imagination	butter	0
+HasPrerequisite	newspaper	advertise	0
+AtLocation	excercise	traffic	0
+AtLocation	table	eat breakfast in bed	0
+AtLocation	day	bride and groom	0
+HasSubevent	spice	commit murder	0
+CapableOf	make reservation	parent	0
+HasA	set alarm	get up early	0
+UsedFor	fun	read to your child	0
+AtLocation	language	german	0
+HasProperty	chemistry lab	beaker	0
+AtLocation	outerspace	theater	0
+HasProperty	dangerous	student	0
+UsedFor	captain ship	woman	0
+HasSubevent	talk	musical instrument	0
+UsedFor	bathe	dish	0
+AtLocation	art show	basement	0
+HasPrerequisite	art show	smoke	0
+IsA	street	blanket	0
+HasPrerequisite	movie	listen to music	0
+Causes	your car to be clean	arkansas	0
+HasProperty	enroll	go to school	0
+IsA	emotion	traffic	0
+HasSubevent	grow on tree	see band	0
+HasLastSubevent	inhale	breathe	0
+Causes	catch fish	fish	0
+HasSubevent	wade	serve customer	0
+AtLocation	tree	something	0
+HasPrerequisite	water	bring in verdict	0
+HasSubevent	shine brightly	sun	0
+AtLocation	dangerous	opera glass	0
+IsA	water flower	something you find outside	0
+HasA	name	get job	0
+CapableOf	water her plant	battery	0
+HasPrerequisite	lose his friend	listen to radio	0
+HasPrerequisite	swallow	toothbrush	0
+HasA	recycle	airplane	0
+CapableOf	match	sprinkler	0
+UsedFor	atom	soap dish	0
+HasA	meet new person	earth	0
+HasSubevent	happiness	take break	0
+HasPrerequisite	fall to grind	jump out of window	0
+AtLocation	trade pokemon card	child	0
+UsedFor	dance	guard	0
+UsedFor	clean vent	have lunch	0
+UsedFor	sleep in	hoist	0
+UsedFor	desk	beanbag chair	0
+AtLocation	sharp	fork	0
+CapableOf	four side	student	0
+IsA	heat room	radiator	0
+AtLocation	sightsee	visit other country	0
+AtLocation	go to bar	meet person	0
+UsedFor	outerspace	asteroid	0
+HasSubevent	drink	star	0
+IsA	shoot thing	gun	0
+UsedFor	pour liquid	radiator	0
+AtLocation	laboratory	dish	0
+Causes	flavor	cheese	0
+UsedFor	buy popcorn	go see film	0
+HasA	get drunk	human	0
+CapableOf	get wet	surf	0
+HasSubevent	freezer	make bread	0
+HasPrerequisite	have newspaper	all paper	0
+AtLocation	toolbox	show	0
+HasA	laboratory	human	0
+AtLocation	newspaper	researcher	0
+AtLocation	pay employee	bunsen burner	0
+CapableOf	in sky	scientist	0
+HasProperty	dangerous	dog	0
+UsedFor	take bath	listen to radio	0
+AtLocation	chair	kite	0
+AtLocation	corner	star	0
+HasPrerequisite	good thing	sex	0
+IsA	ticket	water	0
+IsA	worship	violence	0
+NotCapableOf	fruit	pear	0
+AtLocation	symbol	flag	0
+UsedFor	large mammal	horse	0
+CausesDesire	bathe	helium	0
+Causes	money	dollar	0
+UsedFor	wind instrument	flute	0
+UsedFor	gnaw on bone	cannonball	0
+IsA	smile	flirt	0
+UsedFor	make wine	stream	0
+PartOf	word	new mexico	0
+AtLocation	green	leave	0
+CapableOf	street	programmer	0
+IsA	bar	library	0
+CapableOf	dress doll	buy beer	0
+IsA	information	library	0
+UsedFor	carry thing	german	0
+HasProperty	sharp	tooth	0
+HasLastSubevent	cook	oven	0
+HasProperty	bed	tree	0
+IsA	happiness	eat ice cream	0
+IsA	domesticate animal	square	0
+AtLocation	religion	temple	0
+UsedFor	hit baseball	listen to radio	0
+CapableOf	open envelope	read letter	0
+UsedFor	correct vision	listen to radio	0
+AtLocation	make music	woodwind	0
+UsedFor	make jean	test tube	0
+CapableOf	bathroom	fire	0
+NotDesires	break leg	cinnamon	0
+UsedFor	make noise	person	0
+UsedFor	make wine	take bus	0
+UsedFor	communicate	drive to work	0
+CapableOf	play music	double bass	0
+HasPrerequisite	wash it	leg	0
+UsedFor	enter build	explosive	0
+IsA	commit suicide	girl	0
+IsA	tool box	pen	0
+HasA	state	new mexico	0
+IsA	state	have fun	0
+IsA	judgement	woman	0
+IsA	automobile	linen	0
+HasA	write on	sheet of paper	0
+Causes	sweeten food	sugar	0
+Causes	applause	bell	0
+UsedFor	pain	fall	0
+HasPrerequisite	turn on television	have shower	0
+Causes	go to art museum	take final	0
+CausesDesire	go for swim	potato	0
+CapableOf	travel in space	picture	0
+CausesDesire	study for subject	classroom	0
+HasProperty	cool	electric fan	0
+IsA	pump blood	heart	0
+UsedFor	fun	father	0
+UsedFor	shoot	queen	0
+CapableOf	plant tree	leave	0
+UsedFor	make music	some men	0
+Causes	read	article in magazine	0
+Causes	clean your tooth	toothbrush head	0
+UsedFor	4 leg	coin slot	0
+PartOf	crumb in bed	eat breakfast in bed	0
+UsedFor	wade	spaniel	0
+CapableOf	store thing	closet	0
+HasPrerequisite	sleep	stay in bed	0
+HasA	make box	cardboard	0
+UsedFor	open book	kite	0
+UsedFor	laboratory	bagpipe	0
+HasSubevent	drown in water	person	0
+CapableOf	speak	lip	0
+MotivatedByGoal	get wet	write letter	0
+HasPrerequisite	ride in car	light fire	0
+HasSubevent	language	catch mumps	0
+UsedFor	light match	start fire	0
+UsedFor	read	temple	0
+UsedFor	feline	accordion	0
+UsedFor	milk cow	person	0
+HasPrerequisite	start car	oven	0
+NotDesires	get wet	ferret	0
+PartOf	hang towel	towel rack	0
+HasPrerequisite	eat less	closet	0
+HasPrerequisite	sail	boat	0
+UsedFor	street	wheat	0
+MotivatedByGoal	part your hair	take midterm	0
+HasSubevent	idea	create art	0
+HasSubevent	listen to music	shampoo	0
+HasSubevent	fruit	strawberry	0
+UsedFor	form of communication	vegetable garden	0
+HasSubevent	injustice	obstruct justice	0
+IsA	toy	buy food	0
+IsA	you fall over	screw	0
+NotCapableOf	parent male child	son	0
+CapableOf	feline	lion	0
+AtLocation	school	rifle	0
+AtLocation	pond	battery	0
+AtLocation	hotel	hibiscus	0
+AtLocation	tool box	socialise	0
+IsA	bathroom	tissue holder	0
+AtLocation	garden	mattress	0
+AtLocation	pick it up	t-shirt	0
+AtLocation	forest	person	0
+AtLocation	war	explosive	0
+HasPrerequisite	city	theater	0
+HasA	office	staple remover	0
+AtLocation	in sky	laser	0
+AtLocation	cover bed	son	0
+CapableOf	ice age	mammoth	0
+AtLocation	record studio	go to pub	0
+AtLocation	country	fish	0
+AtLocation	table	milk	0
+AtLocation	water	fire	0
+AtLocation	automobile	entrance	0
+AtLocation	front of house	other planet	0
+UsedFor	store	store shelf	0
+AtLocation	market	write	0
+IsA	belfry	bat	0
+AtLocation	art show	marmoset	0
+HasSubevent	swallow	leave	0
+AtLocation	belfry	clothe	0
+UsedFor	fruit	tomato	0
+Desires	eat	t-shirt	0
+PartOf	laboratory	ram	0
+UsedFor	mall	teenager	0
+UsedFor	brush hair	violence	0
+UsedFor	tree	bark	0
+AtLocation	town	rifle	0
+CapableOf	atom	electron	0
+HasFirstSubevent	die	live	0
+AtLocation	field	pen	0
+CapableOf	animal	human	0
+IsA	bad review	actor	0
+IsA	war	beagle	0
+PartOf	family	ping pong	0
+MadeOf	spice	money	0
+IsA	flower	linen	0
+IsA	vegetable	coin slot	0
+UsedFor	protection	robin egg	0
+UsedFor	have fun	play game	0
+HasSubevent	get wet	kiss	0
+UsedFor	heat	sheet of paper	0
+AtLocation	bathroom	sign	0
+AtLocation	shower	towel	0
+UsedFor	bed	mattress	0
+IsA	heat	dress	0
+UsedFor	sing	person	0
+AtLocation	recycle	person	0
+AtLocation	power flashlight	cloud	0
+AtLocation	wood	table	0
+UsedFor	fly	bird	0
+AtLocation	read	lamp	0
+AtLocation	fruit	mango	0
+IsA	shop mall	cinnamon	0
+HasProperty	hobby	sew	0
+AtLocation	spice	salt	0
+IsA	animal	saw	0
+AtLocation	plant	grass	0
+PartOf	animal	elephant	0
+CausesDesire	vegetable	spinach	0
+HasPrerequisite	flour	cake	0
+AtLocation	tell time	watch	0
+MotivatedByGoal	run	person	0
+UsedFor	flower	iris	0
+UsedFor	yellow	knife	0
+CapableOf	cook food	stove	0
+UsedFor	be entertain	glass	0
+PartOf	at home	bed	0
+AtLocation	food	bread	0
+UsedFor	hospital	doctor	0
+NotMadeOf	body	leg	0
+CapableOf	hot	summer	0
+UsedFor	live room	sofa	0
+IsA	near water	novel	0
+MotivatedByGoal	book	cover	0
+IsA	record studio	owl	0
+HasProperty	study book	sun	0
+IsA	fruit	drunk	0
+IsA	continent	employer	0
+IsA	animal	have rest	0
+HasA	fish	shark	0
+IsA	mammal	tree	0
+IsA	forest	horse	0
+IsA	bird	dog	0
+IsA	mammal	tooth	0
+IsA	fish	penny	0
+IsA	desk	flamingo	0
+IsA	colour	have shower	0
+IsA	fish	antenna	0
+PartOf	reproductive cycle	human	0
+PartOf	tool box	chapter	0
+IsA	human	kill someone	0
+IsA	companionship	pet	0
+HasPrerequisite	atom	proton	0
+AtLocation	near water	fan	0
+IsA	weigh object	cheese	0
+IsA	train	ping pong	0
+HasA	turn tv off	saw	0
+HasFirstSubevent	write by author	book	0
+IsA	hell	something	0
+Desires	gnaw on bone	some animal	0
+HasProperty	superstitious	someone	0
+IsA	art show	horse	0
+HasProperty	dangerous	live	0
+IsA	food	employer	0
+Desires	ride in car	earth	0
+HasA	4 leg	towel rack	0
+AtLocation	near water	duck	0
+AtLocation	scary	rollercoasters	0
+IsA	turn on your computer	horse	0
+IsA	opposable thumb	chemistry	0
+IsA	run	cappuccino	0
+HasA	bathroom	person	0
+UsedFor	activity	ski	0
+IsA	in france	ice	0
+AtLocation	store	butter	0
+HasA	college	fruit	0
+UsedFor	cook	play sport	0
+IsA	doghouse	ignorance	0
+Causes	happiness	sprinkler	0
+HasProperty	yellow	glue	0
+HasProperty	yellow	author	0
+AtLocation	often	book	0
+AtLocation	ticket	go to play	0
+CapableOf	bird	person	0
+HasPrerequisite	pass course	dance	0
+HasSubevent	roof	visit art gallery	0
+AtLocation	commit suicide	jump out of window	0
+Causes	emotion	happiness	0
+HasA	bad review	coffee	0
+HasA	wax	ice	0
+NotCapableOf	travel in space	visit art gallery	0
+HasProperty	exercise	some men	0
+IsA	jump high	horse	0
+CapableOf	toy store	dog	0
+AtLocation	score goal	play hockey	0
+CapableOf	window	male	0
+CapableOf	sleep	teacher	0
+CapableOf	solid	ice	0
+NotDesires	lose his friend	test tube	0
+AtLocation	bar	ferret	0
+HasPrerequisite	get license	cow	0
+HasSubevent	weigh object	meet friend	0
+IsA	pass class	take examination	0
+Causes	die	buy beer	0
+IsA	in europe	catch mumps	0
+HasA	word	eat breakfast in bed	0
+HasPrerequisite	have money	paint	0
+IsA	attend class	take final	0
+HasSubevent	coat wall	painter	0
+Causes	cover bed	blanket	0
+HasA	animal	toothbrush	0
+CapableOf	mix	cheese	0
+HasSubevent	catch frisbee	pass course	0
+HasSubevent	dog	spaniel	0
+HasProperty	catch frisbee	dog	0
+HasPrerequisite	fun	dinner party	0
+CapableOf	get drunk	person	0
+HasPrerequisite	fail student	have fun	0
+HasA	roll over	car	0
+CapableOf	break glass	sky	0
+IsA	store	michigan	0
+AtLocation	use brake	stop your car	0
+AtLocation	man make	build	0
+HasA	water flower	gardener	0
+UsedFor	good friend	dog	0
+AtLocation	newspaper	24 hour	0
+HasSubevent	chew	cheese	0
+HasPrerequisite	go to fish market	clothe store change room	0
+NotMadeOf	brush hair	moon	0
+UsedFor	form of entertainment	play	0
+AtLocation	front of house	24 hour	0
+IsA	minute	60 second	0
+IsA	tree	mother	0
+AtLocation	ring	shampoo	0
+AtLocation	pay employee	employer	0
+IsA	very young child	spider web	0
+UsedFor	alcoholic beverage	wine	0
+UsedFor	form of communication	write	0
+HasPrerequisite	water	pass your university exam	0
+HasPrerequisite	solve problem	person	0
+UsedFor	add number	leave line	0
+HasSubevent	flower	hibiscus	0
+IsA	turn on radio	hear news	0
+CapableOf	privacy	dog	0
+HasPrerequisite	relaxation	read	0
+HasPrerequisite	change yourself	temple	0
+MotivatedByGoal	reach top	beauty	0
+AtLocation	right wrong	judge	0
+CapableOf	make jean	tree	0
+Causes	dance	bat	0
+HasProperty	be make love	person	0
+HasPrerequisite	find bus stop	go to pub	0
+IsA	get grade	take exam	0
+AtLocation	change yourself	many different culture	0
+HasPrerequisite	ticket	german	0
+Causes	dream	south dakota	0
+AtLocation	play music	trombone	0
+Causes	round	go to party	0
+CapableOf	you lose your place	leave line	0
+IsA	enjoyment	go to performance	0
+PartOf	cool room	air conditioner	0
+AtLocation	pick it up	examine thing	0
+CausesDesire	take off your clothe	have shower	0
+HasProperty	look	sky	0
+UsedFor	record on film	movie	0
+CapableOf	serve food	student	0
+HasPrerequisite	reflective surface	bake cake	0
+NotMadeOf	stick thing together	glue	0
+Causes	bathroom	hairbrush	0
+AtLocation	nightmare	mickey mouse	0
+CapableOf	power car	have rest	0
+AtLocation	field	watch tv show	0
+CapableOf	doghouse	dog	0
+HasA	run	human	0
+UsedFor	shoot	clothe	0
+CapableOf	drink	have lunch	0
+HasPrerequisite	ask question	bring suit	0
+AtLocation	edible	some plant	0
+UsedFor	go to hairdresser	have haircut	0
+HasPrerequisite	apply for job	judge	0
+AtLocation	shop mall	gasoline	0
+AtLocation	ride in car	mouse	0
+AtLocation	eat	barbie	0
+AtLocation	refrigerator	see your favorite show	0
+NotCapableOf	activity	cat	0
+Causes	zoo	play game	0
+AtLocation	farm corn	farmer	0
+AtLocation	book	bird	0
+HasPrerequisite	train	person	0
+AtLocation	bathroom	cubicle	0
+HasPrerequisite	turn off alarm clock	heart	0
+HasSubevent	preheat oven	stay in bed	0
+HasA	nest	egg	0
+HasPrerequisite	go to movie	snake	0
+HasLastSubevent	turn tv off	read	0
+Causes	bird	dove	0
+HasProperty	turn on television	see your favorite show	0
+Causes	table	socialise	0
+HasSubevent	sleep	have rest	0
+AtLocation	drive-in movie	bed	0
+UsedFor	mix	oil and water	0
+HasA	knead of dough	cow	0
+CapableOf	shower	person	0
+AtLocation	your desk	cat	0
+HasSubevent	commit suicide	relax	0
+ReceivesAction	simple machine	paper	0
+UsedFor	turn on water	have shower	0
+HasPrerequisite	go to grocery store	drive to work	0
+HasPrerequisite	toy store	prove your physical endurance	0
+AtLocation	country	coin slot	0
+AtLocation	have fun	zebra	0
+HasPrerequisite	sit on bike	hear music	0
+CapableOf	arrive at airport	radiator	0
+CapableOf	play game of chess	chess set	0
+CapableOf	fish	sex	0
+UsedFor	have vcr	view video	0
+AtLocation	chew	stream	0
+CausesDesire	go to work	sailboat	0
+AtLocation	closet	beagle	0
+UsedFor	make wine	eye	0
+UsedFor	universe	park zone	0
+IsA	get answer	compute sum	0
+HasPrerequisite	disneyland	ride horse	0
+IsA	closet	shelf	0
+UsedFor	your bed	floor	0
+AtLocation	go to work	paint	0
+AtLocation	laboratory	hammer	0
+Causes	pacific ocean	shark	0
+HasProperty	ring	bell	0
+HasA	sharp claw	have sex	0
+HasPrerequisite	enroll	do housework	0
+AtLocation	core	apple	0
+HasProperty	sleep in	globe	0
+AtLocation	wear around neck	beauty	0
+HasA	gill	government	0
+IsA	state	calculator	0
+UsedFor	you lose your place	scale	0
+HasSubevent	window	car	0
+UsedFor	light room	get onto web	0
+AtLocation	cheer	spider web	0
+AtLocation	your finger	play	0
+IsA	stick thing together	desert	0
+AtLocation	bathroom	bathroom	0
+IsA	receive money	seven	0
+IsA	five finger on each hand	person	0
+IsA	stimulant	take examination	0
+HasProperty	form of public transportation	planet	0
+HasPrerequisite	make from milk	butter	0
+HasProperty	go to library	read book	0
