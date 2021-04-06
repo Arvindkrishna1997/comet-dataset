@@ -8,6 +8,31 @@ import src.models.utils as model_utils
 import src.evaluate.utils as eval_utils
 import src.train.batch as batch_utils
 
+import collections, nltk
+
+def find_tokens_vocab(filename):
+    string_tuples = open(filename, "r").read().split("\n")
+    tuples = [x.split("\t") for x in string_tuples if x]
+
+    tokens = []
+    for i in range(len(tuples)):
+        tokens.extend(nltk.word_tokenize(tuples[i][1]))
+        tokens.extend(nltk.word_tokenize(tuples[i][2]))
+    return tokens
+
+def compute_unigram(tokens):
+    model = collections.defaultdict(lambda: 0.01)
+    for f in tokens:
+        try:
+            model[f] += 1
+        except KeyError:
+            model[f] = 1
+            continue
+    N = float(sum(model.values()))
+    for word in model:
+        model[word] = model[word]/N
+    return model
+
 def make_sampler(sampler_type, opt, *args, **kwargs):
     print("Initializing Greedy Sampler")
     return GreedySampler(opt, *args, **kwargs)
@@ -184,6 +209,8 @@ class BeamSampler(TopKSampler):
 
         self.kill_mask = torch.ones(opt.eval.bs, opt.eval.bs).to(cfg.device) * 9000
         self.kill_mask[:, 0] = 0
+        self.tokens = find_tokens_vocab("../../data/conceptnet/train100k.txt")
+        self.unigram_prob = compute_unigram(tokens)
 
     def make_batch(self, X):
         X = np.array(X)
@@ -201,6 +228,16 @@ class BeamSampler(TopKSampler):
         next_x = torch.cat((beam_toks.unsqueeze(1), next_pos), -1).unsqueeze(1)
         next_mask = torch.cat([mask, torch.ones(X.size(0), 1, device=mask.device)], 1)
         return torch.cat((X, next_x), 1), next_mask
+
+    def compute_prob(self, sent):
+        tokens = nltk.tokenize(sent)
+        total_prob = 0.0
+        for token in tokens:
+            try:
+                total_prob *= self.unigram_prob[token]
+            except:
+                print(token, " : error")
+        return total_prob
 
     def generate_sequence(self, batch, model, data_loader, start_idx, end_len):
         # start_idx = context_size_event + 1
@@ -306,16 +343,19 @@ class BeamSampler(TopKSampler):
                 break
 
         beams = []
+        beams_prob = []
 
         for beam in beam_seqs:
             beams.append(" ".join("".join(
                 [data_loader.vocab_decoder[tok.item()].replace(
                     '</w>', ' ').replace('\n', '')
                  for tok in beam if tok != self.end_token]).split()))
+            beams_prob.append(compute_prob(self, beams[-1]))
 
         sampling_result = {
             "sequence": beams[0],
             "beams": beams,
+            "beams_prob": beams_prob,
             "beam_losses": beam_lls.tolist(),
             "loss": beam_lls[0].item(),
             "beam_lengths": counts.tolist(),
